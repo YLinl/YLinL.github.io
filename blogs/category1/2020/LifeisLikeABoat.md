@@ -1,6 +1,6 @@
 ---
 title: 【音乐】 Life is Like a Boat
-date: 2018-12-15
+date: 2020-05-31
 tags:
   - 音乐
 categories:
@@ -16,10 +16,5 @@ categories:
 
 ---  
 
-<iframe
-    height=450
-    width=800
-    src="https://www.bilibili.com/video/BV1Bs41117fM?from=search&seid=16745575538944929333"
-    frameborder=0
-    allowfullscreen>
-</iframe>
+<iframe  
+src="//player.bilibili.com/player.html?aid=2885725&bvid=BV1Bs41117fM&cid=4508875&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

@@ -1,7 +1,7 @@
 ---
 home: true
 bgImage: /bg.png
-# bgImageStyle: {
+# heroImageStyle: {
 #   maxWidth: '600px',
 #   width: '100%',
 #   display: block,

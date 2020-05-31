@@ -101,8 +101,8 @@ module.exports = {
     record: "xxxx",
     // 项目开始时间
     startYear: "2017",
-    mode: 'dark',
-    modePicker: false,
+    // mode: 'dark',
+    // modePicker: false,
     /**
      * 密钥 (if your blog is private)
      */
