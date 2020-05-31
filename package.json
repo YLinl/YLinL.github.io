@@ -1,0 +1,19 @@
+{
+  "name": "LinBlog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-comments": "^1.4.3",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "@vuepress/plugin-medium-zoom": "^1.5.0",
+    "vuepress": "1.4.1",
+    "vuepress-plugin-auto-sidebar": "^1.4.1",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-theme-reco": "1.4.5"
+  },
+  "description": ""
+}
