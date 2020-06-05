@@ -42,7 +42,7 @@ module.exports = {
       {
         text: "支言片语",
         icon: "reco-message",
-        link: "/docs/phrases/",
+        link: "/blogs/phrases/",
         // items: [{
         //   // text: 'vuepress-reco',
         //   link: '/docs/theme-reco/'
@@ -144,8 +144,8 @@ module.exports = {
       {
         solution: "valine",
         options: {
-          appId: "...", // your appId
-          appKey: "...", // your appKey
+          appId: "2qsFdlfJfmQa1Jo4vbT7qJ53-gzGzoHsz", // your appId
+          appKey: "ST9K67OfM2z7hqPQJELqUfLt", // your appKey
         },
       },
     ],
