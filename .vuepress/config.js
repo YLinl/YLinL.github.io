@@ -33,11 +33,25 @@ module.exports = {
       {
         text: "文章",
         icon: "reco-message",
-        link: "/docs/theme-reco/",
+        link: "/docs/",
         // items: [{
         //   // text: 'vuepress-reco',
         //   link: '/docs/theme-reco/'
         // }]
+      },
+      {
+        text: "学习",
+        icon: "reco-message",
+        link: "/Learn",
+        items: [{
+            text: 'JS',
+            link: '/learn/js/'
+          },
+          {
+            text: '正则',
+            link: '/learn/regular/'
+          },
+        ]
       },
       {
         text: "支言片语",
